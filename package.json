@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/S23-sujeet/WorkFlow/issues"
   },
-  "homepage": "https://github.com/S23-sujeet/WorkFlow#readme"
+  "homepage": "https://github.com/S23-sujeet/WorkFlow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
