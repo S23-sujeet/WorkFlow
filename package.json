@@ -1,0 +1,26 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Working with NPM, gulp, Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S23-sujeet/WorkFlow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP",
+    "and",
+    "more"
+  ],
+  "author": "Sujeet Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S23-sujeet/WorkFlow/issues"
+  },
+  "homepage": "https://github.com/S23-sujeet/WorkFlow#readme"
+}
